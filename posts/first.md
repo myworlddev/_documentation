@@ -1,4 +1,4 @@
-# home
+# post
 
 ## H2 heading
 
